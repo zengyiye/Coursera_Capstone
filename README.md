@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone Project
+Week 3 Assignment
